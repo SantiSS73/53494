@@ -1,0 +1,7 @@
+z = 4;
+switch(numero) {
+    case 10:
+        output(El valor es cuatro);
+    default:
+        output("Otro valor");
+}
