@@ -1,0 +1,7 @@
+b = 1;
+switch(b) {
+    case 1:
+        output("El valor es 1");
+    default:
+        output("Otro valor");
+}
